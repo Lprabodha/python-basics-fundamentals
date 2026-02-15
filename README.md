@@ -23,7 +23,7 @@ By the end of this course, students will be able to:
 
 ## ✅ Week 02 – Python Basics for Backend Development
 
-📂 Folder: `week02_python_basics/`
+📂 Folder: `week-02/`
 
 ### Topics Covered
 
@@ -53,7 +53,7 @@ By the end of this course, students will be able to:
 
 ## ✅ Week 03 – Python Core Logic & Backend Foundations
 
-📂 Folder: `week03_python_core/`
+📂 Folder: `week-03/`
 
 ### Topics Covered
 
