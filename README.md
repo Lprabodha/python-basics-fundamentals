@@ -13,6 +13,7 @@ By the end of this course, students will be able to:
 - Write clean and structured Python code
 - Understand core programming concepts
 - Think like a backend developer
+- Understand Object-Oriented Programming deeply
 - Prepare for frameworks like Django
 
 ---
@@ -55,9 +56,7 @@ By the end of this course, students will be able to:
 
 📂 Folder: `week-03/`
 
-### Topics Covered
-
-### 🔹 Collections (Deep Understanding)
+### 🔹 Collections
 - Tuple (Immutable concept)
 - Dictionary (Key-Value structure)
 - Nested dictionaries
@@ -99,10 +98,31 @@ By the end of this course, students will be able to:
 
 ---
 
+## ✅ Week 04 – Advanced OOP Concepts
+
+📂 Folder: `week-04/`
+
+### 🔹 OOP Deep Dive
+- Class & Object (Review)
+- Encapsulation (Private variables)
+- Inheritance (Single & Multi-level)
+- Method Overriding
+- Method Overloading (Python style)
+- Abstraction (Abstract Base Classes)
+- Polymorphism concept
+
+### 🔹 Backend Application of OOP
+- Model design thinking
+- Code reusability
+- Secure data handling
+- Structured application architecture
+
+---
+
 # 🛠 Requirements
 
 - Python 3.10+
-- VS Code
+- VS Code (Recommended)
 
 Check Python version:
 
